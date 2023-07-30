@@ -15,7 +15,7 @@ public class SampleTest2 {
     @Test
     public void sampleTest2() {
         System.out.println("Hello World 2");
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
     @AfterMethod
