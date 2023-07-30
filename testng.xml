@@ -5,6 +5,7 @@
           name="C:/Users/akumb/Downloads/AutomationDemo1/AutomationDemo1/src/test/java/TestScripts/SampleTest.java">
         <classes>
             <class name="TestScripts.SampleTest">
+
                 <methods>
                     <include name="sampleTest"/>
                 </methods>
