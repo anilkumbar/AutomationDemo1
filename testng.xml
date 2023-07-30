@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="C:/Users/akumb/Downloads/AutomationDemo1/AutomationDemo1/src/test/java/TestScripts/SampleTest.java">
+          name="src/test/java/TestScripts/SampleTest.java">
         <classes>
             <class name="TestScripts.SampleTest">
 
@@ -13,7 +13,7 @@
         </classes>
     </test>
     <test verbose="2" preserve-order="true"
-          name="C:/Users/akumb/Downloads/AutomationDemo1/AutomationDemo1/src/test/java/TestScripts/SampleTest2.java">
+          name="src/test/java/TestScripts/SampleTest2.java">
         <classes>
             <class name="TestScripts.SampleTest2">
                 <methods>
